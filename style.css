@@ -9,6 +9,11 @@
   background-color: #abf5ba;
 }
 
+.jargon {
+  font-family: 'Sketsa Ramadhan', sans-serif;
+  font-size: 50px
+}
+
 section {
   padding-top: 5rem;
 }
