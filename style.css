@@ -1,3 +1,5 @@
+@import url('http://fonts.cdnfonts.com/css/sketsa-ramadhan');
+
 .navbar-brand {
   font-size: 32px;
 }
@@ -5,6 +7,11 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #abf5ba;
+}
+
+.jumbotron h2 {
+  font-family: 'Sketsa Ramadhan', sans-serif;
+  font-size: 50px;
 }
 
 section {
