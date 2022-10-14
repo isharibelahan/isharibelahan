@@ -6,12 +6,9 @@
 
 .jumbotron {
   padding-top: 6rem;
-  background-color: #abf5ba;
-}
-
-.jumbotron h2 {
   font-family: 'Sketsa Ramadhan', sans-serif;
   font-size: 50px;
+  background-color: #abf5ba;
 }
 
 section {
