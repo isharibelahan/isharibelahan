@@ -1,0 +1,23 @@
+.navbar-brand {
+  font-size: 32px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #abf5ba;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#dokumentasi {
+  background-color: #abf5ba;
+}
+
+@media (min-width: 992px) {
+  .nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+  }
+}
